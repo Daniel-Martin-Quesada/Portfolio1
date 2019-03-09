@@ -1,0 +1,28 @@
+{
+    "concesionario": [
+    {
+    "nombre":"Clasico",
+    "info": "El Ford Mustang es un automóvil deportivo de la casa estadounidense Ford. Se basó inicialmente en la segunda generación del modelo estadounidense Ford Falcon fue introducido al mercado el 17 de abril de 1964. El Mustang de 1965 fue el modelo más exitoso desde el Ford A.,3​ así mismo Mustang es la tercera saga de Ford más antigua, cuyos modelos han sufrido numerosas transformaciones hasta llegar a la actual sexta generación. El Mustang dio origen a una nueva clase de vehículo estadounidense denominado «pony car» — un coupé deportivo con largo capó delantero y corta parte trasera."
+    },
+    {
+     "nombre":"Shelby",
+    "info": "El Shelby Mustang es una variante de alto rendimiento del Ford Mustang que fue construido por Shelby American de 1965 a 1968 y de 1969 a 1970 por Ford. Tras la presentación de la quinta generación del Ford Mustang en 2005, la placa Shelby fue revivida como un nuevo modelo de alto rendimiento, esta vez diseñado y fabricado por Ford."
+    },
+    {
+    "nombre":"GT2017",
+    "info": "Con la eliminación del motor medio de la gama, la diferencia entre el pequeño 2.3 EcoBoost y el bloque 5.0 V8 es todavía mayor, ya que la marca ha optado por darle incluso más potencia al segundo: son 466 CV y 570 Nm de par máximo, una mejora significativa respecto a los 421 CV y 530 Nm que entregaba hasta ahora. El propulsor, además, va asociado a una caja de cambios automática de 10 velocidades que sustituye a la hasta ahora automática de seis."
+    },
+    {
+    "nombre":"GT2018",
+    "info": "El nuevo GT500 también contará con un V8 sobrealimentado, pero Ford no ha proporcionado más detalles. Eso sí: será el automóvil de producción Ford más potente que pueda ir por las calles legalmente, superando al último GT500, e incluso al superdeportivo GT de 647 caballos. Lo cierto es que Ford necesitará este tipo de poder para enfrentarse a sus rivales de Detroit. Con más de 700 caballos de fuerza, el GT500 superará al Chevrolet Camaro ZL1 de 650 HP, y podría igualar los 707 caballos del Dodge Challenger SRT Hellcat. "
+    },
+    {
+    "nombre":"GT2019",
+    "info": "Con un diseño y distintivo de poni único que se reconoce al instante en todo el mundo, el Ford Mustang 2017 es un vehículo divertido de poseer y conducir. Tres diferentes opciones de motor, electrónica de a bordo orientada al rendimiento y muchos lujos se suman a la lista de razones por las cuales el coche es un placer para la multitud. El motor estándar para el Ford Mustang 2017 es un motor V-6 de 3.7 litros que genera 300 caballos de fuerza y 280 lb.-pie."
+    },
+    {
+    "nombre":"Muscle",
+    "info": "El Ford Mustang es un automóvil estadounidense fabricado por Ford. Originalmente se basó en la plataforma de la segunda generación del Ford Falcon norteamericano, un auto compacto. El concept car de 1962 Ford Mustang I de dos plazas se había convertido en el concept car de cuatro plazas Mustang II de 1963 que Ford utilizó para evaluar cómo el público se interesaría en la primera producción de Mustang."
+    }
+ ]
+}

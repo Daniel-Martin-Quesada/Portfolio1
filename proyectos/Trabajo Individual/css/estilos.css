@@ -1,0 +1,356 @@
+
+.fondo{
+    background-image: url('../img/fondo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+
+
+/* Los Diferentes Divs */
+.caja{
+    height: 275px;
+    margin-top: 80px;
+    margin-right: 35px;
+    margin-left: 35px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../img/fcaja.png');
+    border: 2px solid rgb(190, 83, 20);
+    border-radius: 21px;
+}
+
+.caja p{
+    font-variant: small-caps;
+    margin-top: 200px;
+    margin-left:10px;
+    text-align: left;
+    color:rgb(206, 198, 198);
+    font-size: 25px;
+    font-style: italic;
+}
+
+.contenedor{
+    clear: both;
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+.coche {
+    overflow:hidden;
+}
+
+
+#clasico{
+    font-variant: small-caps;
+    margin: 35px;
+    color: white;
+    float: left;
+    width: 25%;
+    height: 340px;
+    background: url("../img/clasico.jpg");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 10px 10px 5px rgb(209, 19, 19);
+    border-radius: 21px;
+}
+
+#clasico:hover{
+    color: rgb(148, 28, 28);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(209, 19, 19);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+#shelby{
+    font-variant: small-caps;
+    margin: 35px;
+    color: rgb(90, 0, 0);
+    float: left;
+    width: 25%;
+    height: 340px;
+    background: url("../img/shelby.png");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 10px 10px 5px rgb(161, 28, 28);
+    border-radius: 21px;
+}
+#shelby:hover{
+    color: rgb(255, 0, 0);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(161, 28, 28);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+#gt2017{
+    margin: 35px;
+    color: rgb(255, 255, 255);
+    float: left;
+    height: 340px;
+    width: 25%;
+    background: url("../img/gt2017.png");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 5px 5px 5px 5px rgb(156, 152, 152);
+    border-radius: 21px;
+}
+#gt2017:hover{
+    color: rgb(71, 66, 66);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(156, 152, 152);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+#gt2018{
+    font-variant: small-caps;
+    margin: 35px;
+    color: rgb(54, 1, 1);
+    float: left;
+    width: 25%;
+    height: 340px;
+    background: url("../img/2018.jpg");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 10px 10px 5px rgb(219, 67, 67);
+    border-radius: 21px;
+}
+#gt2018:hover{
+    color: rgb(206, 5, 5);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(219, 67, 67);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+#gt2019{
+    font-variant: small-caps;
+    margin: 35px;
+    color: rgb(155, 151, 151);
+    float: left;
+    width: 25%;
+    height: 340px;
+    background: url("../img/2019.jpg");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 10px 10px 5px rgb(148, 41, 41);
+    border-radius: 21px;
+}
+#gt2019:hover{
+    color: rgb(255, 0, 0);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(148, 41, 41);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+#muscle{
+    font-variant: small-caps;
+    margin: 35px;
+    color: rgb(255, 255, 255);
+    float: left;
+    width: 25%;
+    height: 340px;
+    background: url("../img/muscle.png");
+    background-size: cover;
+    text-align: right; 
+    box-shadow: 10px 10px 5px rgb(199, 116, 49);
+    border-radius: 21px;
+}
+#muscle:hover{
+    color: rgb(119, 64, 20);
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 13px 13px rgb(199, 116, 49);
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+ }
+
+.titulo{
+    font-size: 40px;
+    font-style: italic;
+    margin-right: 20px;
+}
+
+
+.info{
+    width: 300px;
+    height: 800px;
+    -webkit-transition: width 3s; /* Safari */
+    -webkit-transition-delay: 1s; /* Safari */
+    transition: width 1s;
+    transition-delay: 1s;
+    margin:40px;
+    background: url("../img/info.png");
+    border-color: 3px 1px 1px 1px blue;
+    background-size: cover;
+    text-align: right;
+    display: none;
+    box-shadow: 10px 10px 5px rgb(36, 37, 119);
+    border-radius: 21px;
+}
+
+.info:hover {
+    width: 96%;
+    height: 800px;
+}
+
+.info p{
+    color: white;
+    font-variant: small-caps;
+    float: left;
+    font-size: 25px;
+    font-style: italic;
+    display: none;
+}
+
+
+.titulo2{
+    text-align: left;
+    font-size: 30px;
+    font-style: italic;
+    margin-right: 10px;
+}
+
+
+.volver {
+    margin-left: 1700px;
+    margin-bottom: 2em;
+    background-color: rgb(71, 71, 71); /* Green */
+    border: none;
+    color: rgb(223, 66, 66);
+    padding: 16px 32px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    display: none;
+}
+
+.volver:hover {
+    background-color: #d11c1c;
+    color: white;
+    transition: 1s;
+    border-radius:30%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #745858;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec1e1e;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+  
+  .mostrar {
+      
+  }
+
+#d1{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#d2{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+#d3{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+#d4{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+#d5{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+#d6{
+    color: white;
+    font-variant: small-caps;
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+
+@media all and (max-width: 707px){
+    .titulo{text-align: center; font-size:25px;}
+}
+
+@media all and (max-width: 1400px){
+    .fondo{width:80%;}
+}
+
+@media all and (max-width: 1400px){
+    .contenedor{margin-left: 250px;}
+}
+
+@media all and (max-width: 955px){
+    .contenedor{margin-left: 30%; margin-right: 30%;}
+}
+
+@media all and (max-width: 788px){
+    .caja p{font-size:20px;}
+}
+@media all and (max-width: 466px){
+    .caja p{font-size:15px;}
+}
+@media all and (max-width: 352px){
+    .caja p{font-size:10px;}
+}
+
+@media all and (max-width: 1400px){
+    .caja{margin-left: 30%;}
+}
+
+@media all and (max-width: 1330px) and (min-width:488px) {
+    #clasico{font-size:1.5em;}
+    #shelby{font-size:1.5em;}
+    #gt2017{font-size:1.5em;}
+    #gt2018{font-size:1.5em;}
+    #gt2019{font-size:1.5em;}
+    #muscle{font-size:1.5em;}
+}
